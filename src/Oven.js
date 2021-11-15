@@ -2,7 +2,7 @@ import React from 'react';
 
 function Oven(props) {
     return (
-        <div>
+        <div class='oven'>
             <h1>Oven</h1>
         </div>
     );
